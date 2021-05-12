@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/abdulkadirkg" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="abdulkadirkg" height="30" width="40" /></a>
+<a href="https://instagram.com/abdulkadirkg" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="abdulkadirkg"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
