@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm AbdulkadirKG</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://instagram.com/abdulkadirkg" target="blank"
     ><img
       align="center"
