@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm AbdulkadirKG</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-<p align="left">
-  <a href="https://twitter.com/abdulkadir_kg" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/abdulkadir_kg?logo=twitter&style=for-the-badge"
-      alt="abdulkadir_kg"
-  /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/abdulkadirkg" target="blank"
@@ -36,8 +28,8 @@ Here are some ideas to get you started:
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://angular.io" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
