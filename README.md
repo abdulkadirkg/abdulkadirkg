@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
 <h1 align="center">Hi 👋, I'm AbdulkadirKG</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
@@ -164,15 +163,14 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img style="width:50%"
+  <img 
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=abdulkadirkg&show_icons=true&theme=dark&locale=en"
     alt="abdulkadirkg"
   />
-  <img style="width:50%"
+  <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadirkg&theme=dark"
     alt="abdulkadirkg"
   />
 </p>
-</center>
