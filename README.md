@@ -164,12 +164,12 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img
+  <img style="width:50%"
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=abdulkadirkg&show_icons=true&theme=dark&locale=en"
     alt="abdulkadirkg"
   />
-  <img
+  <img style="width:50%"
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadirkg&theme=dark"
     alt="abdulkadirkg"
