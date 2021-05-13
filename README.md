@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkadirkg&repo=github-readme-stats" alt="abdulkadirkg" /> </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadirkg&repo=github-readme-stats)](https://github.com/abdulkadirkg/github-readme-stats)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkadirkg" alt="abdulkadirkg" /></a> </p>
 
