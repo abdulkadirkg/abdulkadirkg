@@ -239,14 +239,6 @@ Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadirkg&repo
 </p>
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkadirkg&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="abdulkadirkg"
-  />
-</p>
-
-<p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=abdulkadirkg&show_icons=true&theme=dark&locale=en"
