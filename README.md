@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<center>
 <h1 align="center">Hi 👋, I'm AbdulkadirKG</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
@@ -239,3 +239,4 @@ Here are some ideas to get you started:
     alt="abdulkadirkg"
   />
 </p>
+</center>
