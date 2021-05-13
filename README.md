@@ -121,14 +121,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://materializecss.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-      alt="materialize"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"
