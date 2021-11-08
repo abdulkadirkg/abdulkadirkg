@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm AbdulkadirKG</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A full stack developer from Turkey</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
