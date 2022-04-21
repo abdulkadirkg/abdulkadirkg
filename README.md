@@ -26,22 +26,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://angular.io" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-      alt="angularjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://codeigniter.com" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-      alt="codeigniter"
-      width="40"
-      height="40"
-    />
-  </a>
+  
+  
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -58,14 +44,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -74,18 +53,8 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -101,22 +70,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -133,30 +87,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://spring.io/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
+ 
 </p>
 
 <p align="center">
